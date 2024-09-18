@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co.com/0mKv28y/19330959.jpg",
+      "title": "The Silent Waves",
+      "author": "Ella Gray",
+      "author_img": "https://i.ibb.co.com/RQsdQ1p/woman.jpg",
+      "posted_date": "2024-09-01",
+      "reading_time": 4,
+      "hashtags": ["#fiction", "#mystery", "#drama"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co.com/mqvXRRm/8468919.jpg",
+      "title": "Journey Beyond Stars",
+      "author": "Lucas Brooks",
+      "author_img": "https://i.ibb.co.com/MBR2pBr/woman-enjoying-reading-cafe.jpg",
+      "posted_date": "2024-08-15",
+      "reading_time": 5,
+      "hashtags": ["#sci-fi", "#adventure", "#space"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co.com/KVCytVj/6192313.jpg",
+      "title": "Whispers of the Forest",
+      "author": "Maya Lee",
+      "author_img": "https://i.ibb.co.com/MGxHH5t/woman-embracing-book.jpg",
+      "posted_date": "2024-07-22",
+      "reading_time": 3,
+      "hashtags": ["#nature", "#poetry", "#inspiration"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co.com/nwGtPDJ/2897.jpg",
+      "title": "Tech Titans",
+      "author": "James Carter",
+      "author_img": "https://i.ibb.co.com/2PN5Ypc/medium-shot-woman-with-book-coffee-shop.jpg",
+      "posted_date": "2024-09-10",
+      "reading_time": 6,
+      "hashtags": ["#technology", "#business", "#innovation"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co.com/gF66M65/10281501.jpg",
+      "title": "The Hidden Truths",
+      "author": "Sophia Turner",
+      "author_img": "https://i.ibb.co.com/c8rLZ2P/flirty-young-female-student-reading-book-table.jpg",
+      "posted_date": "2024-08-30",
+      "reading_time": 7,
+      "hashtags": ["#thriller", "#secrets", "#crime"]
+    }
+  ]
+  
