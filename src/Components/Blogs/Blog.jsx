@@ -9,6 +9,7 @@ export default function Blog({ blog,handleAddtoBookmark,handleReadingTime}) {
     posted_date,
     reading_time,
     hashtags,
+    id
   } = blog;
   return (
     <div className="border-b-2">
@@ -48,7 +49,7 @@ export default function Blog({ blog,handleAddtoBookmark,handleReadingTime}) {
           </span>
         ))}
       </p>
-      <button onClick = {()=>handleReadingTime(reading_time)} className="text-[#6047EC] mb-[39px] font-semibold">Mark as Read</button>
+      <button onClick = {()=>handleReadingTime(id,reading_time)} className="text-[#6047EC] mb-[39px] font-semibold">Mark as Read</button>
     </div>
   );
 }

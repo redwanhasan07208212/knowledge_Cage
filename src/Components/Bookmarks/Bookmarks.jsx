@@ -6,7 +6,7 @@ export default function Bookmarks({bookmarks,readingTime}){
             <h1 className="border-2 border-solid border-[#6047EC] text-[#6047EC] py-6 px-12 mb-6">Spent time on read : {readingTime}</h1>
             <h1>Bookmarked Blogs : {bookmarks.length}</h1>
             {
-                bookmarks.map(bookmark=><Bookmark key={bookmark.id} bookmark={bookmark}></Bookmark>)
+                bookmarks.map((bookmark,idx)=><Bookmark key={idx} bookmark={bookmark}></Bookmark>)
             }
         </div>
     );
